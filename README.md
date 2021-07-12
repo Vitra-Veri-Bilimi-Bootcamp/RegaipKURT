@@ -1,1 +1,1 @@
-# RegaipKURT
+# Vitra Veri Bilimi BootCamp Ödevleri

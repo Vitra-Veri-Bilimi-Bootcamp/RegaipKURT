@@ -1,0 +1,1 @@
+# Patika Üzerinden Yapılan Ödevler
